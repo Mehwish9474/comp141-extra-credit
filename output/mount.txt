@@ -1,0 +1,5 @@
+/dev/sdb1 on / type ext4 (rw,relatime,discard)
+devtmpfs on /dev type devtmpfs (rw,relatime,size=4066692k,nr_inodes=1016673,mode=755,inode64)
+sysfs on /sys type sysfs (rw,nosuid,nodev,noexec,relatime)
+proc on /proc type proc (rw,nosuid,nodev,noexec,relatime)
+securityfs on /sys/kernel/security type securityfs (rw,nosuid,nodev,noexec,relatime)
