@@ -1,0 +1,4 @@
+ls.txt
+mytextfile.txt
+pwd.txt
+read.txt
